@@ -83,3 +83,5 @@ module tb_single_port_ram;
     end
 
 endmodule
+OUTPUT 
+<img width="1919" height="700" alt="Image" src="https://github.com/user-attachments/assets/157d2d42-c727-4a46-8ce1-0231685a9c57" />
